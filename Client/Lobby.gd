@@ -1,6 +1,6 @@
 extends Node2D
 
-const SERVER_IP = "192.168.1.6"
+const SERVER_IP = "54.225.147.147" # change this to your server's IP address
 const SERVER_PORT = 6969
 var connected_clients = []
 
